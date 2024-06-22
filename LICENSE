@@ -1,21 +1,66 @@
-MIT License
+COSSM License
+
+Commercial Open Source Software Manifest
+Version 1.0
 
 Copyright (c) 2024 OSPM
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Definitions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1.1 "License" means this Commercial Open Source Software Manifest.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1.2 "Software" means the software distributed under this License.
+
+1.3 "Source Code" means the preferred form for making modifications to the Software.
+
+1.4 "You" (or "Your") means an individual or legal entity exercising permissions granted by this License.
+
+1.5 "Contributor" means any individual or legal entity that creates, contributes to, or modifies the Software.
+
+1.6 "Commercial Use" means any use of the Software that is intended for or results in commercial advantage or monetary compensation.
+
+1.7 "OSPM" refers to the Opensource Software Package Marketplace (ospm.app).
+
+2. Grant of Rights
+
+2.1. Source Code Availability
+The Software must be distributed with the complete corresponding machine-readable Source Code, which must be provided under this License.
+
+2.2. Distribution through OSPM
+The Software and any derivative works must be distributed through OSPM. Distribution must be under a subscription model, including monthly, annual, or perpetual subscriptions per seat per project/repository.
+
+2.3. Subscription for Data Use
+A separate subscription is required for using the Source Code or any derivative IP as training data for artificial intelligence or any data aggregation use cases.
+
+2.4. Distribution of Derivative Works
+Any fork or derivative work must be distributed via OSPM. The full subscription cost for the original work must be reimbursed to the authors of the original work. Authors of derivative works may set their subscription price, which will be charged to the end customer on top of the original license subscription cost.
+
+2.5. Subscription Types and Prices
+This License must include the subscription type and price, including any distribution fee collected by OSPM.
+
+2.6. Free Subscription for Non-Commercial Use
+The COSS Manifest permits a free-of-charge subscription for non-commercial use, including personal, educational, and research purposes.
+
+3. Contribution
+
+3.1. Contributor License Grant
+By submitting a Contribution to the Software, You grant the Licensor a worldwide, non-exclusive, transferable, royalty-free license to use, reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works under the terms of this License.
+
+4. Disclaimer of Warranty
+
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. Limitation of Liability
+
+In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Software (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+6. Termination
+
+6.1. Termination for Breach
+This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License.
+
+6.2. Termination by You
+You may terminate this License at any time by ceasing all use, distribution, and modification of the Software.
+
+6.3. Survival of Terms
+Provisions that, by their nature, must remain in effect beyond the termination of this License shall survive, including but not limited to Sections 4 (Disclaimer of Warranty) and 5 (Limitation of Liability).
